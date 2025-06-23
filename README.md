@@ -86,7 +86,8 @@ Upload a `.txt` file containing city policy or rules.
 5. Set main file as: `app.py`
 6. Click **Deploy**
 
-🎉 Your Smart City Assistant is now live!
+🎉 Your Smart City Assistant is now live!(Frontend deployment only) We nee to use Docker for backend Deployment too.
+https://smart-city-assistant-prograto.streamlit.app/
 
 ------------------------------------
 👨‍💻 Created by:

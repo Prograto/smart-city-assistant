@@ -1,0 +1,23 @@
+# Core App
+streamlit>=1.32.0
+
+# Hugging Face Transformers and LLM Pipelines
+transformers>=4.40.0
+sentence-transformers>=2.2.2
+
+# For Semantic Search
+faiss-cpu>=1.7.4
+
+# NLP Utilities
+nltk>=3.8.1
+
+# Data Handling and ML
+pandas>=2.2.2
+scikit-learn>=1.4.2
+numpy>=1.26.4
+
+# Plotting (optional visual dashboard)
+altair>=5.3.0
+
+# Preventing Warnings / Compatibility
+protobuf<=3.20.3

@@ -75,6 +75,16 @@ Energy Usage,4500
 --------------------------------------------
 Upload a `.txt` file containing city policy or rules.
 
+## 📸 Screenshots
+
+| Summarization | Forecast | Tips |
+|---------------|----------|------|
+| ![Summary](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/tips.png) |
+
+## 🎥 Demo Video
+
+▶️ [![Demo Video](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/demo.png)](https://drive.google.com/file/d/1o11pc-5Qt7GrO7WK38c7KOerOd7htZ1s/view?usp=drive_link)
+
 ------------------------------------
 ☁️ Deploy on Streamlit Cloud (Free)
 ------------------------------------
